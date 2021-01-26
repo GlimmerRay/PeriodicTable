@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PeriodicTable/static/css/main.8fe245c9.chunk.css",
+    "main.js": "/PeriodicTable/static/js/main.e4fb3e39.chunk.js",
+    "main.js.map": "/PeriodicTable/static/js/main.e4fb3e39.chunk.js.map",
+    "runtime-main.js": "/PeriodicTable/static/js/runtime-main.39d3c69d.js",
+    "runtime-main.js.map": "/PeriodicTable/static/js/runtime-main.39d3c69d.js.map",
+    "static/js/2.751a370b.chunk.js": "/PeriodicTable/static/js/2.751a370b.chunk.js",
+    "static/js/2.751a370b.chunk.js.map": "/PeriodicTable/static/js/2.751a370b.chunk.js.map",
+    "index.html": "/PeriodicTable/index.html",
+    "static/css/main.8fe245c9.chunk.css.map": "/PeriodicTable/static/css/main.8fe245c9.chunk.css.map",
+    "static/js/2.751a370b.chunk.js.LICENSE.txt": "/PeriodicTable/static/js/2.751a370b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d3c69d.js",
+    "static/js/2.751a370b.chunk.js",
+    "static/css/main.8fe245c9.chunk.css",
+    "static/js/main.e4fb3e39.chunk.js"
+  ]
+}
